@@ -14,6 +14,6 @@ function divide (a, b){
   return (a / b)
 }
 
-function makeInt(n){
+function preserveDecimal(n){
   return (parsefloat(n))
 }
