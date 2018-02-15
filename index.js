@@ -15,5 +15,5 @@ function divide (a, b){
 }
 
 function makeInt(n){
-  return parseInt('n', 10)
+  console.log parseInt('n', 10)
 }
