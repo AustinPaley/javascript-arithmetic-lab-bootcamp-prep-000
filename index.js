@@ -1,4 +1,4 @@
 function add(string)
-function subtract();
-function multiple();
+function subtract()
+function multiple()
 function divide();
