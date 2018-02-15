@@ -23,5 +23,5 @@ function preserveDecimal(n){
 }
 
 function inc(n){
-  return (n += 2)
+  return (n += 1)
 }
