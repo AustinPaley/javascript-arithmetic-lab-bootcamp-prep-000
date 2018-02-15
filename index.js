@@ -1,1 +1,4 @@
-function add(a + b);
+function add()
+function subtract()
+function multiple()
+function divide()
